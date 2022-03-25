@@ -1,4 +1,4 @@
-一个25岁才知道应该长大的男生。
+学习才是真的快乐
 
 <!---
 rengaolei/rengaolei is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
