@@ -1,4 +1,4 @@
-学习才是真的快乐
+学习才是真的快乐！
 
 <!---
 rengaolei/rengaolei is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
